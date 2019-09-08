@@ -1,5 +1,4 @@
-
-#Chip: ESP32-WROOM-32 (ESP32-D0WDQ6)
+# Chip: ESP32-WROOM-32 (ESP32-D0WDQ6)
 # Microprocessor: 2 Cores low-power Xtensa® 32-bit LX6
 # Clock: 80MHz to 240Mhz
 # Crystal: 40MHz
