@@ -6,7 +6,7 @@
 # Operating voltage: 3.0V-3.6V
 # Operating current: 80mA
 
-# Put the device to sleep for 10 seconds
+# Purpose: Put the device to sleep for 10 seconds
 
 import machine
 

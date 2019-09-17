@@ -13,7 +13,7 @@
 from machine import Pin
 import time
 
-p0 = Pin(0, Pin.OUT)
+p11 = Pin(11, Pin.OUT)
 
 while True:
     p0.on()
