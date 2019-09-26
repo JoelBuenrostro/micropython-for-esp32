@@ -8,6 +8,8 @@
 
 # Purpose: Put the device to sleep for 10 seconds
 
+# Notes: Calling deepsleep() without an argument will put the device to sleep indefinitely
+
 import machine
 
 if machine.reset_cause() == machine.DEEPSLEEP_RESET:
