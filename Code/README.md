@@ -1,6 +1,6 @@
 # How to set your board for the first time for Micropython
 
-You need to program your board using the esptool program from espressif Github repositorie
+You need to flash your board using the esptool program from espressif Github repository
 
 [esptool](https://github.com/espressif/esptool)
 
