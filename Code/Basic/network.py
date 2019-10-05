@@ -8,7 +8,7 @@
 
 # Purpose: Create station interface, scan for acces points and connect to an AP
 
-import Code.Basic.network
+import network
 wlan = network.WLAN(network.STA_IF)
 wlan.activate(True)
 wlan.scan()
