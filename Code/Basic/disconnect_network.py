@@ -8,11 +8,9 @@
 # Firmware: Micropython v1.11
 # Board: NodeMCU-32s
 
-# Purpose: Create station interface, scan for acces points and connect to an AP
+# Purpose: Disconnect the board from WiFi
 
 import network
+
 wlan = network.WLAN(network.STA_IF)
-wlan.active(True)
-wlan.scan()
-wlan.connect("AP_name", "Password")
-wlan.isconnected()
+wlan.disconnect()
