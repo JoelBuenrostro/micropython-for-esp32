@@ -5,6 +5,8 @@
 # SPÍ flash: 4 MB
 # Operating voltage: 3.0V-3.6V
 # Operating current: 80mA
+# Firmware: Micropython v1.11
+# Board: NodeMCU-32s
 
 # Purpose: Create ADC object on ADC pin and read a value between 0-1024
 
