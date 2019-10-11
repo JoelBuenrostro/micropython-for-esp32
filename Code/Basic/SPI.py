@@ -5,7 +5,8 @@
 # SPÍ flash: 4 MB
 # Operating voltage: 3.0V-3.6V
 # Operating current: 80mA
-
+# Firmware: Micropython v1.11
+# Board: NodeMCU-32s
 # Purpose: Set SPI baudrate, polarity and phase on hardware SPI bus
 
 # Notes: The hardware SPI is faster (up to 80Mhz), but only works on following pins: MISO is GPIO12
